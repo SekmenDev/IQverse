@@ -1,6 +1,8 @@
-# Quiztopia
+# IQverse
 
-Welcome to **Quiztopia** – the ultimate platform for quiz enthusiasts! Whether you're here to challenge yourself, create fun quizzes, or compete with others, Quiztopia has something for everyone.
+**Test, Learn, Thrive in the IQverse!**
+
+Welcome to **IQverse** – the ultimate platform for quiz enthusiasts! Whether you're here to challenge yourself, create fun quizzes, or compete with others, IQverse has something for everyone.
 
 ## Key Features
 
@@ -10,7 +12,7 @@ Welcome to **Quiztopia** – the ultimate platform for quiz enthusiasts! Whether
   
 - **Create & Share:**
   - Design and publish your own quizzes with our easy-to-use quiz-building tools.
-  - Share your quizzes with friends or with the entire Quiztopia community.
+  - Share your quizzes with friends or with the entire IQverse community.
   
 - **Compete & Compare:**
   - Take quizzes, view your results, and compare them with other users.
@@ -20,13 +22,13 @@ Welcome to **Quiztopia** – the ultimate platform for quiz enthusiasts! Whether
   - Earn points, badges, and achievements as you take and create quizzes.
   - Complete daily challenges and maintain streaks to unlock more rewards.
 
-### Contributing
-We welcome contributions from the community to help improve Quiztopia! 
+## Contributing
+We welcome contributions from the community to help improve IQverse! 
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
+## Contact
 If you have any questions or suggestions, feel free to open an issue or contact us at https://sekmen.dev
 
 
